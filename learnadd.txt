@@ -1,0 +1,285 @@
+ZeffriN	abbot	Eaten: abbot   Nutr: 400   Effects: Human Hallucination
+ZeffriN	acid_blob	Eaten: acid blob   Nutr: 10 V!   Effects: Acidic  
+ZeffriN	acolyte	Eaten: acolyte   Nutr: 400   Effects: Human  
+ZeffriN	aligned_priest	Eaten: aligned priest   Nutr: 400   Effects: Human  
+ZeffriN	ape	Eaten: ape     Nutr: 500  
+ZeffriN	apprentice	Eaten: apprentice   Nutr: 400   Effects: Human  
+ZeffriN	Arch_Priest	Eaten: Arch Priest   Nutr: 400   Effects: Human  
+ZeffriN	archeologist	Eaten: archeologist   Nutr: 400   Effects: Human  
+ZeffriN	attendant	Eaten: attendant   Nutr: 400   Effects: Human  
+ZeffriN	baby_black_dragon	Eaten: baby black dragon     Nutr: 500  
+ZeffriN	baby_blue_dragon	Eaten: baby blue dragon     Nutr: 500  
+ZeffriN	baby_crocodile	Eaten: baby crocodile   Nutr: 200  
+ZeffriN	baby_gray_dragon	Eaten: baby gray dragon     Nutr: 500  
+ZeffriN	baby_green_dragon	Eaten: baby green dragon     Nutr: 500   Effects: Poisonous  
+ZeffriN	baby_long_worm	Eaten: baby long worm   Nutr: 250  
+ZeffriN	baby_orange_dragon	Eaten: baby orange dragon     Nutr: 500  
+ZeffriN	baby_purple_worm	Eaten: baby purple worm   Nutr: 250  
+ZeffriN	baby_red_dragon	Eaten: baby red dragon     Nutr: 500  
+ZeffriN	baby_silver_dragon	Eaten: baby silver dragon     Nutr: 500  
+ZeffriN	baby_white_dragon	Eaten: baby white dragon     Nutr: 500  
+ZeffriN	baby_yellow_dragon	Eaten: baby yellow dragon     Nutr: 500   Effects: Acidic  
+ZeffriN	baluchitherium	Eaten: baluchitherium   Nutr: 800  
+ZeffriN	barbarian	Eaten: barbarian   Nutr: 400   Effects: Human  
+ZeffriN	bat	Eaten: bat   Nutr: 20   Effects:   Stun (30)
+ZeffriN	black_dragon	Eaten: black dragon   Nutr: 1500   Intrinsic: Disintegration: 100%
+ZeffriN	black_naga	Eaten: black naga   Nutr: 400   Effects: Acidic     Intrinsic: Poison: 53%
+ZeffriN	black_naga_hatchling	Eaten: black naga hatchling   Nutr: 100   Effects: Acidic     Intrinsic: Poison: 20%
+ZeffriN	black_pudding	Eaten: black pudding   Nutr: 250   Effects: Acidic     Intrinsic: Cold: 22%, Shock: 22%, Poison: 22%
+ZeffriN	black_unicorn	Eaten: black unicorn   Nutr: 300   Intrinsic: Poison: 27%
+ZeffriN	blue_dragon	Eaten: blue dragon   Nutr: 1500   Intrinsic: Shock: 100%
+ZeffriN	blue_jelly	Eaten: blue jelly   Nutr: 20 V!   Intrinsic: Cold: 13%, Poison: 13%
+ZeffriN	brown_mold	Eaten: brown mold   Nutr: 30 V!   Intrinsic: Cold: 3%, Poison: 3%
+ZeffriN	brown_pudding	Eaten: brown pudding   Nutr: 250 V   Effects: Acidic     Intrinsic: Cold: 11%, Shock: 11%, Poison: 11%
+ZeffriN	bugbear	Eaten: bugbear   Nutr: 250  
+ZeffriN	captain	Eaten: captain   Nutr: 400   Effects: Human  
+ZeffriN	carnivorous_ape	Eaten: carnivorous ape   Nutr: 550  
+ZeffriN	cave_spider	Eaten: cave spider   Nutr: 50   Intrinsic: Poison: 7%
+ZeffriN	caveman	Eaten: caveman   Nutr: 400   Effects: Human  
+ZeffriN	cavewoman	Eaten: cavewoman   Nutr: 400   Effects: Human  
+ZeffriN	centipede	Eaten: centipede   Nutr: 50   Intrinsic: Poison: 13%
+ZeffriN	chameleon	Eaten: chameleon   Nutr: 100   Effects:   Polymorph
+ZeffriN	chickatrice	Eaten: chickatrice   Nutr: 10   Effects: Petrify     Intrinsic: Poison: 27%
+ZeffriN	chieftain	Eaten: chieftain   Nutr: 400   Effects: Human  
+ZeffriN	Chromatic_Dragon	Eaten: Chromatic Dragon   Nutr: 1700   Effects: Poisonous     Intrinsic: Fire: 17%, Cold: 17%, Sleep: 17%, Shock: 17%, Poison: 17%, Disintegration: 17%
+ZeffriN	cobra	Eaten: cobra   Nutr: 100   Effects: Poisonous     Intrinsic: Poison: 40%
+ZeffriN	cockatrice	Eaten: cockatrice   Nutr: 30   Effects: Petrify     Intrinsic: Poison: 33%
+ZeffriN	coyote	Eaten: coyote   Nutr: 250  
+ZeffriN	crocodile	Eaten: crocodile   Nutr: 400  
+ZeffriN	Croesus	Eaten: Croesus   Nutr: 400   Effects: Human  
+ZeffriN	Cyclops	Eaten: Cyclops   Nutr: 700   Effects:   Strength
+ZeffriN	Death	Eaten: Death   Nutr: 1   Effects: DIE  
+ZeffriN	dingo	Eaten: dingo   Nutr: 200  
+ZeffriN	disenchanter	Eaten: disenchanter   Nutr: 200  
+ZeffriN	dog	Eaten: dog   Nutr: 200   Effects: Aggravate  
+ZeffriN	doppelganger	Eaten: doppelganger   Nutr: 400   Effects: Human Polymorph
+ZeffriN	dwarf	Eaten: dwarf   Nutr: 300   Effects: Dwarf  
+ZeffriN	dwarf_king	Eaten: dwarf king   Nutr: 300   Effects: Dwarf  
+ZeffriN	dwarf_lord	Eaten: dwarf lord   Nutr: 300   Effects: Dwarf  
+ZeffriN	electric_eel	Eaten: electric eel   Nutr: 250   Intrinsic: Shock: 47%
+ZeffriN	elf	Eaten: elf   Nutr: 350   Effects: Elf     Intrinsic: Sleep: 67%
+ZeffriN	elf-lord	Eaten: elf-lord   Nutr: 350   Effects: Elf     Intrinsic: Sleep: 53%
+ZeffriN	Elvenking	Eaten: Elvenking   Nutr: 350   Effects: Elf     Intrinsic: Sleep: 60%
+ZeffriN	ettin	Eaten: ettin     Nutr: 500  
+ZeffriN	Famine	Eaten: Famine   Nutr: 1   Effects: DIE  
+ZeffriN	fire_ant	Eaten: fire ant   Nutr: 10   Intrinsic: Fire: 20%
+ZeffriN	fire_giant	Eaten: fire giant   Nutr: 750   Effects:   Strength   Intrinsic: Fire: 30%
+ZeffriN	flesh_golem	Eaten: flesh golem   Nutr: 600   Intrinsic: Fire: 12%, Cold: 12%, Sleep: 12%, Shock: 12%, Poison: 12%
+ZeffriN	floating_eye	Eaten: floating eye   Nutr: 10   Intrinsic: Telepathy: 100%
+ZeffriN	forest_centaur	Eaten: forest centaur   Nutr: 600  
+ZeffriN	fox	Eaten: fox   Nutr: 250  
+ZeffriN	frost_giant	Eaten: frost giant   Nutr: 750   Effects:   Strength   Intrinsic: Cold: 33%
+ZeffriN	gargoyle	Eaten: gargoyle   Nutr: 200  
+ZeffriN	garter_snake	Eaten: garter snake   Nutr: 60  
+ZeffriN	gecko	Eaten: gecko   Nutr: 20  
+ZeffriN	gelatinous_cube	Eaten: gelatinous cube   Nutr: 150 V!   Effects: Acidic     Intrinsic: Fire: 10%, Cold: 10%, Sleep: 10%, Shock: 10%
+ZeffriN	giant	Eaten: giant   Nutr: 750   Effects:   Strength
+ZeffriN	giant_ant	Eaten: giant ant   Nutr: 10  
+ZeffriN	giant_bat	Eaten: giant bat   Nutr: 30   Effects:   Stun (60)
+ZeffriN	giant_beetle	Eaten: giant beetle   Nutr: 10   Effects: Poisonous     Intrinsic: Poison: 33%
+ZeffriN	giant_eel	Eaten: giant eel   Nutr: 250  
+ZeffriN	giant_mimic	Eaten: giant mimic     Nutr: 500   Effects:   Mimic (50)
+ZeffriN	giant_rat	Eaten: giant rat   Nutr: 30  
+ZeffriN	giant_spider	Eaten: giant spider   Nutr: 100   Effects: Poisonous     Intrinsic: Poison: 33%
+ZeffriN	glass_piercer	Eaten: glass piercer   Nutr: 300  
+ZeffriN	gnome	Eaten: gnome   Nutr: 100   Effects: Gnome  
+ZeffriN	gnome_king	Eaten: gnome king   Nutr: 150   Effects: Gnome  
+ZeffriN	gnome_lord	Eaten: gnome lord   Nutr: 120   Effects: Gnome  
+ZeffriN	gnomish_wizard	Eaten: gnomish wizard   Nutr: 120   Effects: Gnome  
+ZeffriN	goblin	Eaten: goblin   Nutr: 100  
+ZeffriN	golden_naga	Eaten: golden naga   Nutr: 400   Intrinsic: Poison: 67%
+ZeffriN	golden_naga_hatchling	Eaten: golden naga hatchling   Nutr: 100   Intrinsic: Poison: 20%
+ZeffriN	Grand_Master	Eaten: Grand Master   Nutr: 400   Effects: Human  
+ZeffriN	gray_dragon	Eaten: gray dragon   Nutr: 1500  
+ZeffriN	gray_ooze	Eaten: gray ooze   Nutr: 250 V   Effects: Acidic     Intrinsic: Fire: 7%, Cold: 7%, Poison: 7%
+ZeffriN	gray_unicorn	Eaten: gray unicorn   Nutr: 300   Intrinsic: Poison: 27%
+ZeffriN	green_dragon	Eaten: green dragon   Nutr: 1500   Effects: Poisonous     Intrinsic: Poison: 100%
+ZeffriN	green_mold	Eaten: green mold   Nutr: 30 V!   Effects: Acidic  
+ZeffriN	green_slime	Eaten: green slime   Nutr: 150 V   Effects: Slime, Poisonous, Acidic  
+ZeffriN	Green-elf	Eaten: Green-elf   Nutr: 350   Effects: Elf     Intrinsic: Sleep: 33%
+ZeffriN	gremlin	Eaten: gremlin   Nutr: 20   Effects: Poisonous     Intrinsic: Poison: 33%
+ZeffriN	Grey-elf	Eaten: Grey-elf   Nutr: 350   Effects: Elf     Intrinsic: Sleep: 40%
+ZeffriN	guard	Eaten: guard   Nutr: 400   Effects: Human  
+ZeffriN	guardian_naga	Eaten: guardian naga   Nutr: 400   Effects: Poisonous     Intrinsic: Poison: 80%
+ZeffriN	guardian_naga_hatchling	Eaten: guardian naga hatchling   Nutr: 100   Intrinsic: Poison: 20%
+ZeffriN	guide	Eaten: guide   Nutr: 400   Effects: Human  
+ZeffriN	healer	Eaten: healer   Nutr: 400   Effects: Human  
+ZeffriN	hell_hound	Eaten: hell hound   Nutr: 300   Intrinsic: Fire: 80%
+ZeffriN	hell_hound_pup	Eaten: hell hound pup   Nutr: 200   Intrinsic: Fire: 47%
+ZeffriN	high_priest	Eaten: high priest   Nutr: 400   Effects: Human  
+ZeffriN	hill_giant	Eaten: hill giant   Nutr: 700   Effects:   Strength
+ZeffriN	hill_orc	Eaten: hill orc   Nutr: 200  
+ZeffriN	Hippocrates	Eaten: Hippocrates   Nutr: 400   Effects: Human  
+ZeffriN	hobbit	Eaten: hobbit   Nutr: 200  
+ZeffriN	hobgoblin	Eaten: hobgoblin   Nutr: 200  
+ZeffriN	homunculus	Eaten: homunculus   Nutr: 100   Effects: Poisonous     Intrinsic: Sleep: 7%, Poison: 7%
+ZeffriN	horse	Eaten: horse   Nutr: 300  
+ZeffriN	housecat	Eaten: housecat   Nutr: 200   Effects: Aggravate  
+ZeffriN	human	Eaten: human   Nutr: 400   Effects: Human  
+ZeffriN	hunter	Eaten: hunter   Nutr: 400   Effects: Human  
+ZeffriN	ice_troll	Eaten: ice troll   Nutr: 300   Intrinsic: Cold: 60%
+ZeffriN	iguana	Eaten: iguana   Nutr: 30  
+ZeffriN	imp	Eaten: imp   Nutr: 10  
+ZeffriN	iron_piercer	Eaten: iron piercer   Nutr: 300  
+ZeffriN	Ixoth	Eaten: Ixoth   Nutr: 1600   Intrinsic: Fire: 100%
+ZeffriN	jabberwock	Eaten: jabberwock   Nutr: 600  
+ZeffriN	jackal	Eaten: jackal   Nutr: 250  
+ZeffriN	jaguar	Eaten: jaguar   Nutr: 300  
+ZeffriN	jellyfish	Eaten: jellyfish   Nutr: 20   Effects: Poisonous     Intrinsic: Poison: 20%
+ZeffriN	Keystone_Kop	Eaten: Keystone Kop   Nutr: 200   Effects: Human  
+ZeffriN	killer_bee	Eaten: killer bee   Nutr: 5   Effects: Poisonous     Intrinsic: Poison: 30%
+ZeffriN	King_Arthur	Eaten: King Arthur   Nutr: 400   Effects: Human  
+ZeffriN	kitten	Eaten: kitten   Nutr: 150   Effects: Aggravate  
+ZeffriN	knight	Eaten: knight   Nutr: 400   Effects: Human  
+ZeffriN	kobold	Eaten: kobold   Nutr: 100   Effects: Poisonous  
+ZeffriN	kobold_lord	Eaten: kobold lord   Nutr: 200   Effects: Poisonous  
+ZeffriN	kobold_shaman	Eaten: kobold shaman   Nutr: 150   Effects: Poisonous  
+ZeffriN	Kop_Kaptain	Eaten: Kop Kaptain   Nutr: 200   Effects: Human  
+ZeffriN	Kop_Lieutenant	Eaten: Kop Lieutenant   Nutr: 200   Effects: Human  
+ZeffriN	Kop_Sergeant	Eaten: Kop Sergeant   Nutr: 200   Effects: Human  
+ZeffriN	kraken	Eaten: kraken   Nutr: 1000  
+ZeffriN	large_cat	Eaten: large cat   Nutr: 250   Effects: Aggravate  
+ZeffriN	large_dog	Eaten: large dog   Nutr: 250   Effects: Aggravate  
+ZeffriN	large_kobold	Eaten: large kobold   Nutr: 150   Effects: Poisonous  
+ZeffriN	large_mimic	Eaten: large mimic   Nutr: 400   Effects:   Mimic (40)
+ZeffriN	leocrotta	Eaten: leocrotta     Nutr: 500  
+ZeffriN	leprechaun	Eaten: leprechaun   Nutr: 30   Intrinsic: Teleportitis: 50%
+ZeffriN	lichen	Eaten: lichen   Nutr: 200 V!  
+ZeffriN	lieutenant	Eaten: lieutenant   Nutr: 400   Effects: Human  
+ZeffriN	little_dog	Eaten: little dog   Nutr: 150   Effects: Aggravate  
+ZeffriN	lizard	Eaten: lizard   Nutr: 40   Effects: Cure stoning Reduce stunning, confusion
+ZeffriN	long_worm	Eaten: long worm     Nutr: 500  
+ZeffriN	Lord_Carnarvon	Eaten: Lord Carnarvon   Nutr: 400   Effects: Human  
+ZeffriN	Lord_Sato	Eaten: Lord Sato   Nutr: 400   Effects: Human  
+ZeffriN	Lord_Surtur	Eaten: Lord Surtur   Nutr: 850   Effects:   Strength   Intrinsic: Fire: 50%
+ZeffriN	lurker_above	Eaten: lurker above   Nutr: 350  
+ZeffriN	lynx	Eaten: lynx   Nutr: 300  
+ZeffriN	Master_Assassin	Eaten: Master Assassin   Nutr: 400   Effects: Human  
+ZeffriN	Master_Kaen	Eaten: Master Kaen   Nutr: 400   Effects: Human     Intrinsic: Poison: 100%
+ZeffriN	master_mind_flayer	Eaten: master mind flayer   Nutr: 400   Effects:   Intelligence: 50%   Intrinsic: Telepathy: (if no Intelligence gain)
+ZeffriN	Master_of_Thieves	Eaten: Master of Thieves   Nutr: 400   Effects: Human  
+ZeffriN	mastodon	Eaten: mastodon   Nutr: 800  
+ZeffriN	Medusa	Eaten: Medusa   Nutr: 400   Effects: Petrify, Poisonous     Intrinsic: Poison: 100%
+ZeffriN	mind_flayer	Eaten: mind flayer   Nutr: 400   Effects:   Intelligence: 50%   Intrinsic: Telepathy: (if no Intelligence gain)
+ZeffriN	minotaur	Eaten: minotaur   Nutr: 700  
+ZeffriN	monk	Eaten: monk   Nutr: 400   Effects: Human  
+ZeffriN	monkey	Eaten: monkey   Nutr: 50  
+ZeffriN	Mordor_orc	Eaten: Mordor orc   Nutr: 200  
+ZeffriN	mountain_centaur	Eaten: mountain centaur     Nutr: 500  
+ZeffriN	mountain_nymph	Eaten: mountain nymph   Nutr: 300   Intrinsic: Teleportitis: 30%
+ZeffriN	mumak	Eaten: mumak     Nutr: 500  
+ZeffriN	neanderthal	Eaten: neanderthal   Nutr: 400   Effects: Human  
+ZeffriN	Neferet_the_Green	Eaten: Neferet the Green   Nutr: 400   Effects: Human  
+ZeffriN	newt	Eaten: newt   Nutr: 20   Effects:   Energy: 67%
+ZeffriN	ninja	Eaten: ninja   Nutr: 400   Effects: Human  
+ZeffriN	Norn	Eaten: Norn   Nutr: 400   Effects: Human  
+ZeffriN	nurse	Eaten: nurse   Nutr: 400   Effects: Human Heal   Intrinsic: Poison: 73%
+ZeffriN	ochre_jelly	Eaten: ochre jelly   Nutr: 20 V!   Effects: Acidic  
+ZeffriN	ogre	Eaten: ogre     Nutr: 500  
+ZeffriN	ogre_king	Eaten: ogre king   Nutr: 750  
+ZeffriN	ogre_lord	Eaten: ogre lord   Nutr: 700  
+ZeffriN	Olog-hai	Eaten: Olog-hai   Nutr: 400  
+ZeffriN	Oracle	Eaten: Oracle   Nutr: 400   Effects: Human  
+ZeffriN	orange_dragon	Eaten: orange dragon   Nutr: 1500   Intrinsic: Sleep: 100%
+ZeffriN	orc	Eaten: orc   Nutr: 150  
+ZeffriN	orc_shaman	Eaten: orc shaman   Nutr: 300  
+ZeffriN	orc-captain	Eaten: orc-captain   Nutr: 350  
+ZeffriN	Orion	Eaten: Orion   Nutr: 400   Effects: Human  
+ZeffriN	owlbear	Eaten: owlbear   Nutr: 700  
+ZeffriN	page	Eaten: page   Nutr: 400   Effects: Human  
+ZeffriN	panther	Eaten: panther   Nutr: 300  
+ZeffriN	Pelias	Eaten: Pelias   Nutr: 400   Effects: Human  
+ZeffriN	Pestilence	Eaten: Pestilence   Nutr: 1   Effects: DIE  
+ZeffriN	piranha	Eaten: piranha   Nutr: 30  
+ZeffriN	pit_viper	Eaten: pit viper   Nutr: 60   Effects: Poisonous     Intrinsic: Poison: 40%
+ZeffriN	plains_centaur	Eaten: plains centaur     Nutr: 500  
+ZeffriN	pony	Eaten: pony   Nutr: 250  
+ZeffriN	priest	Eaten: priest   Nutr: 400   Effects: Human  
+ZeffriN	priestess	Eaten: priestess   Nutr: 400   Effects: Human  
+ZeffriN	prisoner	Eaten: prisoner   Nutr: 400   Effects: Human  
+ZeffriN	purple_worm	Eaten: purple worm   Nutr: 700  
+ZeffriN	pyrolisk	Eaten: pyrolisk   Nutr: 30   Intrinsic: Fire: 20%, Poison: 20%
+ZeffriN	python	Eaten: python   Nutr: 100  
+ZeffriN	quantum_mechanic	Eaten: quantum mechanic   Nutr: 20   Effects: Poisonous     Intrinsic: Speed Toggle
+ZeffriN	quasit	Eaten: quasit   Nutr: 200   Intrinsic: Poison: 20%
+ZeffriN	queen_bee	Eaten: queen bee   Nutr: 5   Effects: Poisonous     Intrinsic: Poison: 60%
+ZeffriN	quivering_blob	Eaten: quivering blob   Nutr: 100 V!   Intrinsic: Poison: 33%
+ZeffriN	rabid_rat	Eaten: rabid rat   Nutr: 5   Effects: Poisonous  
+ZeffriN	ranger	Eaten: ranger   Nutr: 400   Effects: Human  
+ZeffriN	raven	Eaten: raven   Nutr: 20  
+ZeffriN	red_dragon	Eaten: red dragon   Nutr: 1500   Intrinsic: Fire: 100%
+ZeffriN	red_mold	Eaten: red mold   Nutr: 30 V!   Intrinsic: Fire: 3%, Poison: 3%
+ZeffriN	red_naga	Eaten: red naga   Nutr: 400   Intrinsic: Fire: 20%, Poison: 20%
+ZeffriN	red_naga_hatchling	Eaten: red naga hatchling   Nutr: 100   Intrinsic: Fire: 10%, Poison: 10%
+ZeffriN	rock_mole	Eaten: rock mole   Nutr: 30  
+ZeffriN	rock_piercer	Eaten: rock piercer   Nutr: 200  
+ZeffriN	rock_troll	Eaten: rock troll   Nutr: 300  
+ZeffriN	rogue	Eaten: rogue   Nutr: 400   Effects: Human  
+ZeffriN	roshi	Eaten: roshi   Nutr: 400   Effects: Human  
+ZeffriN	rothe	Eaten: rothe   Nutr: 100  
+ZeffriN	rust_monster	Eaten: rust monster   Nutr: 250  
+ZeffriN	salamander	Eaten: salamander   Nutr: 400   Effects: Poisonous     Intrinsic: Fire: 53%
+ZeffriN	samurai	Eaten: samurai   Nutr: 400   Effects: Human  
+ZeffriN	sasquatch	Eaten: sasquatch   Nutr: 750  
+ZeffriN	scorpion	Eaten: scorpion   Nutr: 100   Effects: Poisonous     Intrinsic: Poison: 50%
+ZeffriN	Scorpius	Eaten: Scorpius   Nutr: 350   Effects: Poisonous     Intrinsic: Poison: 100%
+ZeffriN	sergeant	Eaten: sergeant   Nutr: 400   Effects: Human  
+ZeffriN	sewer_rat	Eaten: sewer rat   Nutr: 12  
+ZeffriN	Shaman_Karnov	Eaten: Shaman Karnov   Nutr: 400   Effects: Human  
+ZeffriN	shark	Eaten: shark   Nutr: 350  
+ZeffriN	shopkeeper	Eaten: shopkeeper   Nutr: 400   Effects: Human  
+ZeffriN	shrieker	Eaten: shrieker   Nutr: 100 V!   Intrinsic: Poison: 20%
+ZeffriN	silver_dragon	Eaten: silver dragon   Nutr: 1500   Effects:    
+ZeffriN	small_mimic	Eaten: small mimic   Nutr: 200   Effects:   Mimic (20)
+ZeffriN	snake	Eaten: snake   Nutr: 80   Effects: Poisonous     Intrinsic: Poison: 27%
+ZeffriN	soldier	Eaten: soldier   Nutr: 400   Effects: Human  
+ZeffriN	soldier_ant	Eaten: soldier ant   Nutr: 5   Effects: Poisonous     Intrinsic: Poison: 20%
+ZeffriN	spotted_jelly	Eaten: spotted jelly   Nutr: 20 V!   Effects: Acidic  
+ZeffriN	stalker	Eaten: stalker   Nutr: 400   Effects:   Stun (60)   Intrinsic: Invisibility
+ZeffriN	stone_giant	Eaten: stone giant   Nutr: 750   Effects:   Strength
+ZeffriN	storm_giant	Eaten: storm giant   Nutr: 750   Effects:   Strength   Intrinsic: Shock: 50%
+ZeffriN	student	Eaten: student   Nutr: 400   Effects: Human  
+ZeffriN	tengu	Eaten: tengu   Nutr: 200   Intrinsic: Poison: 13%, Teleportitis: 20%, Teleport control: 17%
+ZeffriN	thug	Eaten: thug   Nutr: 400   Effects: Human  
+ZeffriN	tiger	Eaten: tiger   Nutr: 300  
+ZeffriN	titan	Eaten: titan   Nutr: 900  
+ZeffriN	titanothere	Eaten: titanothere   Nutr: 650  
+ZeffriN	tourist	Eaten: tourist   Nutr: 400   Effects: Human  
+ZeffriN	trapper	Eaten: trapper   Nutr: 350  
+ZeffriN	troll	Eaten: troll   Nutr: 350  
+ZeffriN	Twoflower	Eaten: Twoflower   Nutr: 400   Effects: Human  
+ZeffriN	umber_hulk	Eaten: umber hulk     Nutr: 500  
+ZeffriN	Uruk-hai	Eaten: Uruk-hai   Nutr: 300  
+ZeffriN	valkyrie	Eaten: valkyrie   Nutr: 400   Effects: Human  
+ZeffriN	vampire_bat	Eaten: vampire bat   Nutr: 20   Effects: Poisonous  
+ZeffriN	violet_fungus	Eaten: violet fungus   Nutr: 100 V!   Effects:   Hallucination   Intrinsic: Poison: 20%
+ZeffriN	warg	Eaten: warg   Nutr: 350  
+ZeffriN	warhorse	Eaten: warhorse   Nutr: 350  
+ZeffriN	warrior	Eaten: warrior   Nutr: 400   Effects: Human  
+ZeffriN	watch_captain	Eaten: watch captain   Nutr: 400   Effects: Human  
+ZeffriN	watchman	Eaten: watchman   Nutr: 400   Effects: Human  
+ZeffriN	water_moccasin	Eaten: water moccasin   Nutr: 80   Effects: Poisonous     Intrinsic: Poison: 27%
+ZeffriN	water_nymph	Eaten: water nymph   Nutr: 300   Intrinsic: Teleportitis: 30%
+ZeffriN	water_troll	Eaten: water troll   Nutr: 350  
+ZeffriN	werejackal	Eaten: werejackal   Nutr: 400   Effects: Human, Poisonous     Intrinsic: Lycanthropy: 100%
+ZeffriN	wererat	Eaten: wererat   Nutr: 400   Effects: Human, Poisonous     Intrinsic: Lycanthropy: 100%
+ZeffriN	werewolf	Eaten: werewolf   Nutr: 400   Effects: Human, Poisonous     Intrinsic: Lycanthropy: 100%
+ZeffriN	white_dragon	Eaten: white dragon   Nutr: 1500   Intrinsic: Cold: 100%
+ZeffriN	white_unicorn	Eaten: white unicorn   Nutr: 300   Intrinsic: Poison: 27%
+ZeffriN	winged_gargoyle	Eaten: winged gargoyle   Nutr: 300  
+ZeffriN	winter_wolf	Eaten: winter wolf   Nutr: 300   Intrinsic: Cold: 47%
+ZeffriN	winter_wolf_cub	Eaten: winter wolf cub   Nutr: 200   Intrinsic: Cold: 33%
+ZeffriN	wizard	Eaten: wizard   Nutr: 400   Effects: Human  
+ZeffriN	Wizard_of_Yendor	Eaten: Wizard of Yendor   Nutr: 400   Effects: Human     Intrinsic: Fire: 25%, Poison: 25%, Teleportitis: 25%, Teleport control: 25%
+ZeffriN	wolf	Eaten: wolf   Nutr: 250  
+ZeffriN	wood_nymph	Eaten: wood nymph   Nutr: 300   Intrinsic: Teleportitis: 30%
+ZeffriN	woodchuck	Eaten: woodchuck   Nutr: 30  
+ZeffriN	Woodland-elf	Eaten: Woodland-elf   Nutr: 350   Effects: Elf     Intrinsic: Sleep: 27%
+ZeffriN	wraith	Eaten: wraith   Nutr: 0   Effects:   Gain level
+ZeffriN	wumpus	Eaten: wumpus     Nutr: 500  
+ZeffriN	xan	Eaten: xan   Nutr: 300   Effects: Poisonous     Intrinsic: Poison: 47%
+ZeffriN	xorn	Eaten: xorn   Nutr: 700  
+ZeffriN	yellow_dragon	Eaten: yellow dragon   Nutr: 1500   Effects: Acidic  
+ZeffriN	yellow_mold	Eaten: yellow mold   Nutr: 30 V!   Effects: Poisonous Hallucination   Intrinsic: Poison: 7%
+ZeffriN	yeti	Eaten: yeti   Nutr: 700   Intrinsic: Cold: 33%
+ZeffriN	zruty	Eaten: zruty   Nutr: 600  

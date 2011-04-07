@@ -1,0 +1,4 @@
+
+Rodney is an RSS news syndicator, nethack (and crawl thanks Zippo) death announcer and interface for the learn database from Rodney @ nethack.alt.org
+
+Written in Python this implementation of Rodney connects to a MUD via a simple TCP socket.  Might come in handy for someone and in anycase github gives me somewhere safe to put it so here it is!
